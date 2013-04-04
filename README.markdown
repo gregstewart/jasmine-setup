@@ -16,6 +16,6 @@ If you want to plug this into your WebStorm IDE:
  4. Specify the fully qualified path to your Node executable: "C:\Program Files\nodejs\node.exe"
  5. Full path to your working directory
  6. Path to your kharma installation, e.g.: C:\Users\username\AppData\Roaming\npm\node_modules\karma\bin\karma
- 7. Application start parameters: start .\kharma.conf.js
+ 7. Application start parameters: start .\karma.conf.js
 
 Then again maybe I should just be using grunt.js
