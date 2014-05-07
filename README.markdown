@@ -11,7 +11,7 @@ To get started simply cd into the project root and type:
 Then you can simply type:
 
     grunt
-    
+
 And then you should see something like this:
 
     Running "jshint:all" (jshint) task
@@ -33,7 +33,7 @@ And then you should see something like this:
 If you want to plug this into your WebStorm IDE:
 
  1. Go to "Edit configurations"
- 2. Add a new configuration for Node.js
+ 2. Add a new configuration for Karma
  3. Give it name e.g.: "Karma"
  4. Specify the fully qualified path to your Node executable: "C:\Program Files\nodejs\node.exe"
  5. Path to your Karma installation, e.g.: C:\projects\Github\jasmine-setup\node_modules\karma
